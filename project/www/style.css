@@ -1,0 +1,104 @@
+body {
+    background-color: indianred;
+    margin: 0;
+    font-family: sans-serif;
+    
+}
+ul {
+    padding: 10px;
+
+}
+li {
+    display: inline;
+}
+li a {
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px;
+    color: lightpink;
+}
+li a:hover {
+    text-decoration: underline;
+}
+h1 {
+    padding: 10px;
+    text-align: center;
+
+}
+.nav{
+    background-color: grey;
+    padding: 3px;
+
+    
+}
+.navbar {
+    display: block;
+    align-items: center;
+    text-align: center;
+    background-color: grey;
+    padding: 3px;
+    
+    color: lightpink;
+}
+.ul {
+    display: block;
+}
+
+.loginPage {
+    background-color: indianred;
+    color: lightpink;
+}
+
+.loginPage p {
+    text-align: center;
+}
+
+.loginForm {
+    text-align: center;
+    background-color: indianred;
+    color: lightpink;
+    padding: 10px;
+
+}
+
+.loginForm input {
+    background-color: lightpink;
+    
+}
+
+.loginField input {
+    text-align: center;
+}
+
+.title {
+    color: lightpink;
+}
+
+.info{
+    text-align: center;
+    align-items: center;
+}
+
+.links{
+    text-align: center;
+}
+
+.content{
+    background-color: indianred;
+    padding: 10px;
+}
+
+footer {
+    background-color: lightpink;
+    color: indianred;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    display: list-item;
+
+}
+
+footer a {
+    color: indianred;
+}

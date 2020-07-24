@@ -692,3 +692,8 @@ localhost:80 172.20.0.1 - - [28/May/2020:11:15:26 +0000] "GET /login.php HTTP/1.
 localhost:80 172.20.0.1 - - [28/May/2020:11:15:26 +0000] "GET /style.css HTTP/1.1" 200 678 "http://localhost/login.php" "Mozilla/5.0 (X11; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0"
 localhost:80 172.20.0.1 - - [28/May/2020:11:15:56 +0000] "POST /login.php HTTP/1.1" 200 1269 "http://localhost/login.php" "Mozilla/5.0 (X11; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0"
 localhost:80 172.20.0.1 - - [28/May/2020:11:15:56 +0000] "GET /style.css HTTP/1.1" 200 678 "http://localhost/login.php" "Mozilla/5.0 (X11; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0"
+localhost:80 172.20.0.1 - - [24/Jul/2020:11:18:33 +0000] "GET / HTTP/1.1" 403 491 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0"
+localhost:80 172.20.0.1 - - [24/Jul/2020:11:18:34 +0000] "GET /favicon.ico HTTP/1.1" 404 487 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0"
+localhost:80 172.20.0.1 - - [24/Jul/2020:11:19:12 +0000] "GET / HTTP/1.1" 403 491 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0"
+localhost:80 172.20.0.1 - - [24/Jul/2020:11:19:14 +0000] "GET / HTTP/1.1" 403 490 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0"
+localhost:80 172.20.0.1 - - [24/Jul/2020:11:19:14 +0000] "GET / HTTP/1.1" 403 490 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0"
